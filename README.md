@@ -2,7 +2,7 @@
   <a href='#'>
     <img 
       src="https://www.nattanan.kim/_next/image?url=%2Fimg%2Fprojects%2Fgo-user-service-thumb.png&w=750&q=75"
-      alt="https://iconbu.com/illust/4214"
+      alt="go"
       width="200"
     />
   </a>
